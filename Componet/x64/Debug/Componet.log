@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\or amit\documents\visual studio 2015\projects\componet\componet\checklist.h(20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\or amit\documents\visual studio 2015\projects\componet\componet\textbox.h(22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\or amit\documents\visual studio 2015\projects\componet\componet\combobox.h(17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\or amit\documents\visual studio 2015\projects\componet\componet\combobox.h(21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\or amit\documents\visual studio 2015\projects\componet\componet\combobox.h(25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Componet.vcxproj -> C:\Users\Or Amit\Documents\Visual Studio 2015\Projects\Componet\x64\Debug\Componet.exe
